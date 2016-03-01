@@ -1,0 +1,11 @@
+<course display_name="Hybird Electronics Lab">
+  <chapter url_name="Introduction"/>
+  <chapter url_name="Design_and_Implementation_of_Various_Arithmetic_Circuits"/>
+  <chapter url_name="Design_and_Simulate_Various_Code_Converters"/>
+  <chapter url_name="Design_and_Simulation_of_Various_Counters_and_Shift_Registers"/>
+  <chapter url_name="Design_and_Simulation_of_Arithmetic_Logic_Unit"/>
+  <chapter url_name="Design_and_Simulate_Analog_to_Digital_Converter_and_Digital_to_Analog_Converter_"/>
+  <chapter url_name="Design_and_Simulation_of_monostable_and_astable_oscillator_using_IC_555"/>
+  <chapter url_name="83b09c8e0e1b456ab01a98253505126f"/>
+  <wiki slug="COEP.HE-COEP.Anytime"/>
+</course>
