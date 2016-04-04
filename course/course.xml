@@ -1,4 +1,4 @@
-<course advertised_start="Anytime" display_name="Hybrid Electronics Lab" end="&quot;2016-05-31T00:00:00+00:00&quot;" enrollment_end="&quot;2016-05-31T00:00:00+00:00&quot;" enrollment_start="&quot;2016-04-01T00:00:00+00:00&quot;" start="&quot;2016-04-01T00:00:00+00:00&quot;">
+<course advertised_start="Anytime" course_image="icons_Hybrid Electronics.png" display_name="Hybrid Electronics Lab" end="null" enrollment_end="null" enrollment_start="null" start="&quot;2016-04-01T00:00:00+00:00&quot;">
   <chapter url_name="Introduction"/>
   <chapter url_name="Design_and_Implementation_of_Various_Arithmetic_Circuits"/>
   <chapter url_name="Design_and_Simulate_Various_Code_Converters"/>

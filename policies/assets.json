@@ -1,1 +1,26 @@
-{}
+{
+    "icons_Hybrid_Electronics.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "ECE19", 
+            "name": "icons_Hybrid_Electronics.png", 
+            "org": "COE-Pune", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "icons_Hybrid Electronics.png", 
+        "filename": "asset-v1:COE-Pune+ECE19+Anytime+type@asset+block@icons_Hybrid_Electronics.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "COE-Pune", 
+            "ECE19", 
+            "thumbnail", 
+            "icons_Hybrid_Electronics-png.jpg", 
+            null
+        ]
+    }
+}
