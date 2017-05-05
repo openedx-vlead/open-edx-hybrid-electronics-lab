@@ -1,0 +1,38 @@
+<problem display_name="Multiple Choice" markdown=" 1. All Boolean expressions can be implemented with&#10;() NAND gates only&#10;() choice 2 Combinations of And gates, OR gates, and inverters&#10;() NOR gates only&#10;(x) Any of these&#10;&#10;2) A full – adder is characterized by&#10;() Two inputs and two outputs&#10;() Two inputs and three outputs&#10;(x) Three inputs and two outputs&#10;() none of these&#10;&#10;3) A 4 bit adder can add&#10;(x) Two 4 bit binary numbers&#10;() Two 2 bit binary numbers&#10;() 4 bits at a time&#10;() 4 bits in sequence&#10;&#10;4) A half adder is characterised by&#10;() Three inputs and two outputs&#10;(x) Two inputs and two outputs&#10;() Two inputs and one outputs&#10;() All of the above&#10;">
+  <p> 1. All Boolean expressions can be implemented with</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">NAND gates only</choice>
+      <choice correct="false">choice 2 Combinations of And gates, OR gates, and inverters</choice>
+      <choice correct="false">NOR gates only</choice>
+      <choice correct="true">Any of these</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2) A full – adder is characterized by</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Two inputs and two outputs</choice>
+      <choice correct="false">Two inputs and three outputs</choice>
+      <choice correct="true">Three inputs and two outputs</choice>
+      <choice correct="false">none of these</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3) A 4 bit adder can add</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Two 4 bit binary numbers</choice>
+      <choice correct="false">Two 2 bit binary numbers</choice>
+      <choice correct="false">4 bits at a time</choice>
+      <choice correct="false">4 bits in sequence</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4) A half adder is characterised by</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Three inputs and two outputs</choice>
+      <choice correct="true">Two inputs and two outputs</choice>
+      <choice correct="false">Two inputs and one outputs</choice>
+      <choice correct="false">All of the above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

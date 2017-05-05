@@ -1,11 +1,12 @@
-<course advertised_start="Anytime" course_image="icons_Hybrid Electronics.png" display_name="Hybrid Electronics Lab" end="null" enrollment_end="null" enrollment_start="null" start="&quot;2016-04-01T00:00:00+00:00&quot;">
-  <chapter url_name="Introduction"/>
-  <chapter url_name="Design_and_Implementation_of_Various_Arithmetic_Circuits"/>
-  <chapter url_name="Design_and_Simulate_Various_Code_Converters"/>
-  <chapter url_name="Design_and_Simulation_of_Various_Counters_and_Shift_Registers"/>
-  <chapter url_name="Design_and_Simulation_of_Arithmetic_Logic_Unit"/>
-  <chapter url_name="Design_and_Simulate_Analog_to_Digital_Converter_and_Digital_to_Analog_Converter_"/>
-  <chapter url_name="Design_and_Simulation_of_monostable_and_astable_oscillator_using_IC_555"/>
-  <chapter url_name="83b09c8e0e1b456ab01a98253505126f"/>
-  <wiki slug="COEP.ECE19.Anytime"/>
+<course advertised_start="Anytime" cert_html_view_enabled="true" course_image="COEP-Hybrid Electronics.JPG" display_name="Hybrid Electronics" instructor_info="{&quot;instructors&quot;: []}" language="en" learning_info="[]" start="&quot;2016-09-30T00:00:00+00:00&quot;">
+  <chapter url_name="792e675b532849ab868edb78034febbc"/>
+  <chapter url_name="b2a79e03b8c341d5b5dfb4d75326fdfd"/>
+  <chapter url_name="917cf302ac9d49b1afb586405bd79dba"/>
+  <chapter url_name="d40d3531b6aa492fb54a455f5ddfa5f2"/>
+  <chapter url_name="a1d0d6a2b5954e689e3c6edb0695d655"/>
+  <chapter url_name="2df6ee913d8447ac9a2dc3cac5dbf599"/>
+  <chapter url_name="8a6b400c305349d5be7cdc83c134a6b9"/>
+  <chapter url_name="d20037947cb44e1dadb84828c70c0e3c"/>
+  <chapter url_name="cfa58529776f4af1a4b7842da58a5a1f"/>
+  <wiki slug="COEP.ece19.Anytime"/>
 </course>

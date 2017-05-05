@@ -1,0 +1,47 @@
+<problem display_name="Multiple Choice" markdown="&#10;1. Which of the following gate is universal gate&#10;() AND&#10;() OR&#10;() NOT&#10;(x) NAND&#10;&#10;2) Which of the following gate is derived gate&#10;() AND&#10;() OR&#10;() NOT&#10;(x) EX-OR&#10;&#10;3) The ASCII code basically is&#10;() 4 bit code&#10;() 6 bit code&#10;(x) 7 bit code&#10;() 12 bit code&#10;&#10;4) X-NOR gate is combination of an&#10;(x) X-OR and NOT&#10;() NAND and NOR&#10;() X-OR and AND&#10;() X-OR and OR&#10;&#10;5) Which of the following is not a basic gate&#10;() OR&#10;(x) NOR&#10;() AND&#10;() NOT&#10;">
+  <p>1. Which of the following gate is universal gate</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">AND</choice>
+      <choice correct="false">OR</choice>
+      <choice correct="false">NOT</choice>
+      <choice correct="true">NAND</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2) Which of the following gate is derived gate</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">AND</choice>
+      <choice correct="false">OR</choice>
+      <choice correct="false">NOT</choice>
+      <choice correct="true">EX-OR</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3) The ASCII code basically is</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">4 bit code</choice>
+      <choice correct="false">6 bit code</choice>
+      <choice correct="true">7 bit code</choice>
+      <choice correct="false">12 bit code</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4) X-NOR gate is combination of an</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">X-OR and NOT</choice>
+      <choice correct="false">NAND and NOR</choice>
+      <choice correct="false">X-OR and AND</choice>
+      <choice correct="false">X-OR and OR</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5) Which of the following is not a basic gate</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">OR</choice>
+      <choice correct="true">NOR</choice>
+      <choice correct="false">AND</choice>
+      <choice correct="false">NOT</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

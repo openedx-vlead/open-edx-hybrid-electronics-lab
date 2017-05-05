@@ -1,0 +1,47 @@
+<problem display_name="Multiple Choice" markdown="&#10;1. The OR operation can be produced with&#10;() Two nor gates&#10;() Three nand gates&#10;(x) Both the above&#10;() None of above&#10;&#10;2) The AND operation can be produced with&#10;() One NOR gate&#10;() Three NAND gates&#10;(x) Two NAND gates&#10;() None of these&#10;&#10;3) The 2’s complement of 11001000 is&#10;() 00110001&#10;() 00110111&#10;() 00111001&#10;(x) 00111000&#10;&#10;4) The 1’s complement of 11001011 is&#10;(x) 00110100&#10;() 00110001&#10;() 01001000&#10;() 00110011&#10;&#10;5) Which of the following gate is not universal gate&#10;() NOR&#10;(x) OR&#10;() NAND&#10;() NONE OF THESE&#10;">
+  <p>1. The OR operation can be produced with</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Two nor gates</choice>
+      <choice correct="false">Three nand gates</choice>
+      <choice correct="true">Both the above</choice>
+      <choice correct="false">None of above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2) The AND operation can be produced with</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">One NOR gate</choice>
+      <choice correct="false">Three NAND gates</choice>
+      <choice correct="true">Two NAND gates</choice>
+      <choice correct="false">None of these</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3) The 2’s complement of 11001000 is</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">00110001</choice>
+      <choice correct="false">00110111</choice>
+      <choice correct="false">00111001</choice>
+      <choice correct="true">00111000</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4) The 1’s complement of 11001011 is</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">00110100</choice>
+      <choice correct="false">00110001</choice>
+      <choice correct="false">01001000</choice>
+      <choice correct="false">00110011</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5) Which of the following gate is not universal gate</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">NOR</choice>
+      <choice correct="true">OR</choice>
+      <choice correct="false">NAND</choice>
+      <choice correct="false">NONE OF THESE</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

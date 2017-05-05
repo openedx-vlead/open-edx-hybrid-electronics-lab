@@ -1,0 +1,47 @@
+<problem display_name="Multiple Choice" markdown="&#10;1. The output of a gate is HIGH if and only if all its inputs are LOW. It is true for&#10;(x) NOR&#10;() NAND&#10;() XOR&#10;() ALL&#10;&#10;2) The output if a 2-input gate is 1 if and only if its input are unequal it is true for&#10;() OR&#10;() NOR&#10;(x) XOR&#10;() XNOR&#10;&#10;3) The output of gate is low when at least one of the input is high&#10;() OR&#10;(x) NOR&#10;() AND&#10;() NAND&#10;&#10;4) The output of the gate is high only if all its inputs are high. It is true for&#10;() NOR&#10;() XOR&#10;(x) AND&#10;() NAND&#10;&#10;5) The output of the a gate is low if and only if all the inputs are low. It is true for&#10;(x) OR&#10;() XOR&#10;() AND&#10;() NAND&#10;">
+  <p>1. The output of a gate is HIGH if and only if all its inputs are LOW. It is true for</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">NOR</choice>
+      <choice correct="false">NAND</choice>
+      <choice correct="false">XOR</choice>
+      <choice correct="false">ALL</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2) The output if a 2-input gate is 1 if and only if its input are unequal it is true for</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">OR</choice>
+      <choice correct="false">NOR</choice>
+      <choice correct="true">XOR</choice>
+      <choice correct="false">XNOR</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3) The output of gate is low when at least one of the input is high</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">OR</choice>
+      <choice correct="true">NOR</choice>
+      <choice correct="false">AND</choice>
+      <choice correct="false">NAND</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4) The output of the gate is high only if all its inputs are high. It is true for</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">NOR</choice>
+      <choice correct="false">XOR</choice>
+      <choice correct="true">AND</choice>
+      <choice correct="false">NAND</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5) The output of the a gate is low if and only if all the inputs are low. It is true for</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">OR</choice>
+      <choice correct="false">XOR</choice>
+      <choice correct="false">AND</choice>
+      <choice correct="false">NAND</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

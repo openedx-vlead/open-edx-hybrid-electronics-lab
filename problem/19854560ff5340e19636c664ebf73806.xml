@@ -1,0 +1,47 @@
+<problem display_name="Multiple Choice" markdown="1. The duty cycle of an astable multivibrator will vary between ----- % and ------%&#10;() 0 , 50&#10;() 0 , 100&#10;(x) 50 , 100&#10;() None of above&#10;&#10;2) In a typical IC monostable multivibrator circuit, at the falling edge of the trigger input, the output switches HIGH for a period of time determined by the ________.&#10;(x) value of the RC timing components&#10;() amplitude of the input trigger&#10;() frequency of the input trigger&#10;() magnitude of the dc supply voltage&#10;&#10;3) Main application of monostable multivibrator is to generate&#10;() Sign output&#10;(x) Pulsed output&#10;() Square output&#10;() Sawtooth output&#10;&#10;4) For the timer operation IC should be operated in ----- mode&#10;(x) Monostable&#10;() Astable&#10;() Bistable&#10;() a and b&#10;&#10;5) The trigger input (pin 2) of IC 555 is connected to ------- when it is operated as an oscillator&#10;() Vcc&#10;() GND&#10;() External trigger pulse&#10;(x) Pin6&#10;">
+  <p>1. The duty cycle of an astable multivibrator will vary between ----- % and ------%</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">0 , 50</choice>
+      <choice correct="false">0 , 100</choice>
+      <choice correct="true">50 , 100</choice>
+      <choice correct="false">None of above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2) In a typical IC monostable multivibrator circuit, at the falling edge of the trigger input, the output switches HIGH for a period of time determined by the ________.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">value of the RC timing components</choice>
+      <choice correct="false">amplitude of the input trigger</choice>
+      <choice correct="false">frequency of the input trigger</choice>
+      <choice correct="false">magnitude of the dc supply voltage</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3) Main application of monostable multivibrator is to generate</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Sign output</choice>
+      <choice correct="true">Pulsed output</choice>
+      <choice correct="false">Square output</choice>
+      <choice correct="false">Sawtooth output</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4) For the timer operation IC should be operated in ----- mode</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Monostable</choice>
+      <choice correct="false">Astable</choice>
+      <choice correct="false">Bistable</choice>
+      <choice correct="false">a and b</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5) The trigger input (pin 2) of IC 555 is connected to ------- when it is operated as an oscillator</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Vcc</choice>
+      <choice correct="false">GND</choice>
+      <choice correct="false">External trigger pulse</choice>
+      <choice correct="true">Pin6</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

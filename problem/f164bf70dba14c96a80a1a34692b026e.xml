@@ -1,0 +1,38 @@
+<problem display_name="Multiple Choice" markdown=" 1. 2A binary-weighted digital-to-analog converter has an input resistor of 100 k . If the&#10;() 500 A&#10;() 5 mA&#10;(x) 50 uA&#10;() 50 mA&#10;&#10;2) The difference between analog voltage represented by two adjacent digital codes, or the analog step size, is the:&#10;() Accuracy&#10;(x) Resolution&#10;() Quantization&#10;() None of these&#10;&#10;3) The resolution of a 0–5 V 6-bit digital-to-analog converter (DAC) is:&#10;(x) 1.56%&#10;() 63%&#10;() 64%&#10;() 6.3%&#10;&#10;4) The number of binary bits at the input of a digital-to-analog converter (DAC) is known as ________&#10;() Precision&#10;() Accuracy&#10;() Linearity&#10;(x) Resolution">
+  <p> 1. 2A binary-weighted digital-to-analog converter has an input resistor of 100 k . If the</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">500 A</choice>
+      <choice correct="false">5 mA</choice>
+      <choice correct="true">50 uA</choice>
+      <choice correct="false">50 mA</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2) The difference between analog voltage represented by two adjacent digital codes, or the analog step size, is the:</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Accuracy</choice>
+      <choice correct="true">Resolution</choice>
+      <choice correct="false">Quantization</choice>
+      <choice correct="false">None of these</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3) The resolution of a 0–5 V 6-bit digital-to-analog converter (DAC) is:</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">1.56%</choice>
+      <choice correct="false">63%</choice>
+      <choice correct="false">64%</choice>
+      <choice correct="false">6.3%</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4) The number of binary bits at the input of a digital-to-analog converter (DAC) is known as ________</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Precision</choice>
+      <choice correct="false">Accuracy</choice>
+      <choice correct="false">Linearity</choice>
+      <choice correct="true">Resolution</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

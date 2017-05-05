@@ -1,25 +1,28 @@
 {
     "course/course": {
         "advertised_start": "Anytime", 
-        "course_image": "icons_Hybrid Electronics.png", 
+        "cert_html_view_enabled": true, 
+        "course_image": "COEP-Hybrid Electronics.JPG", 
         "discussion_topics": {
             "General": {
-                "id": "i4x-COEP-HE-COEP-course-HE-COEP"
+                "id": "course"
             }
         }, 
-        "display_name": "Hybrid Electronics Lab", 
-        "end": null, 
-        "enrollment_end": null, 
-        "enrollment_start": null, 
-        "start": "2016-04-01T00:00:00Z", 
+        "display_name": "Hybrid Electronics", 
+        "instructor_info": {
+            "instructors": []
+        }, 
+        "language": "en", 
+        "learning_info": [], 
+        "start": "2016-09-30T00:00:00Z", 
         "tabs": [
             {
-                "name": "Courseware", 
-                "type": "courseware"
+                "name": "Home", 
+                "type": "course_info"
             }, 
             {
-                "name": "Course Info", 
-                "type": "course_info"
+                "name": "Course", 
+                "type": "courseware"
             }, 
             {
                 "name": "Textbooks", 

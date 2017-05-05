@@ -1,0 +1,38 @@
+<problem display_name="Multiple Choice" markdown="1. Accuracy is defined as a&#10;() Minimum output voltage&#10;() The smallest possible change in the output voltage&#10;(x) Measure of the difference between the actual output voltage and the expected output voltage&#10;() None of these&#10;&#10;2) The output if a 2-input gate is 1 if and only if its input are unequal it is true for&#10;() Equal increment in input gives equal increment in output&#10;(x) Difference between actual output and measure output&#10;() Smallest possible change in the output voltage as a fraction or percentage of full scale output voltage&#10;() Both 1 and 2&#10;&#10;3) The practical use of binary-weighted digital-to-analog converters is limited to:&#10;() R and 2R ladder D A converters&#10;(x) 4-bit D A converters&#10;() 8-bit D A converters&#10;() 8-bit D A converters&#10;&#10;4) Resolution is defined as a&#10;(x) Smallest possible change in the output voltage as a fraction or percentage of full scale output voltage.&#10;() Difference between actual output and measure output&#10;() Equal increment in input gives equal increment in output&#10;() Both 1 and 2&#10;">
+  <p>1. Accuracy is defined as a</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Minimum output voltage</choice>
+      <choice correct="false">The smallest possible change in the output voltage</choice>
+      <choice correct="true">Measure of the difference between the actual output voltage and the expected output voltage</choice>
+      <choice correct="false">None of these</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2) The output if a 2-input gate is 1 if and only if its input are unequal it is true for</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Equal increment in input gives equal increment in output</choice>
+      <choice correct="true">Difference between actual output and measure output</choice>
+      <choice correct="false">Smallest possible change in the output voltage as a fraction or percentage of full scale output voltage</choice>
+      <choice correct="false">Both 1 and 2</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3) The practical use of binary-weighted digital-to-analog converters is limited to:</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">R and 2R ladder D A converters</choice>
+      <choice correct="true">4-bit D A converters</choice>
+      <choice correct="false">8-bit D A converters</choice>
+      <choice correct="false">8-bit D A converters</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4) Resolution is defined as a</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Smallest possible change in the output voltage as a fraction or percentage of full scale output voltage.</choice>
+      <choice correct="false">Difference between actual output and measure output</choice>
+      <choice correct="false">Equal increment in input gives equal increment in output</choice>
+      <choice correct="false">Both 1 and 2</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

@@ -1,0 +1,47 @@
+<problem display_name="Multiple Choice" markdown=" 1. The type of register in which data is entered into it only one bit at a time but all data bits available at the output is&#10;() Parallel in serial out&#10;() Parallel in Parallel out&#10;(x) Serial in serial out&#10;() Serial in parallel out&#10;&#10;2) The type of register in which we have access only to left most and right most flip-flop is&#10;(x) Serial in serial out register&#10;() Shift left and shift right register&#10;() Serial in parallel out register&#10;() Shift left register&#10;&#10;3) A universal register is&#10;() Accept serial input&#10;() Accept parallel input&#10;() Gives serial and parallel output&#10;(x) Is capable of all the input&#10;&#10;4) The ripple counter is&#10;() Decade counter&#10;() Synchronous sequential circuit&#10;(x) Asynchronous sequential circuit&#10;() All above&#10;&#10;5) The number of flip-flops required for mod 16 ring counter are&#10;() 4&#10;() 8&#10;() 12&#10;(x) 16">
+  <p> 1. The type of register in which data is entered into it only one bit at a time but all data bits available at the output is</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Parallel in serial out</choice>
+      <choice correct="false">Parallel in Parallel out</choice>
+      <choice correct="true">Serial in serial out</choice>
+      <choice correct="false">Serial in parallel out</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2) The type of register in which we have access only to left most and right most flip-flop is</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Serial in serial out register</choice>
+      <choice correct="false">Shift left and shift right register</choice>
+      <choice correct="false">Serial in parallel out register</choice>
+      <choice correct="false">Shift left register</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3) A universal register is</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Accept serial input</choice>
+      <choice correct="false">Accept parallel input</choice>
+      <choice correct="false">Gives serial and parallel output</choice>
+      <choice correct="true">Is capable of all the input</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4) The ripple counter is</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Decade counter</choice>
+      <choice correct="false">Synchronous sequential circuit</choice>
+      <choice correct="true">Asynchronous sequential circuit</choice>
+      <choice correct="false">All above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5) The number of flip-flops required for mod 16 ring counter are</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">4</choice>
+      <choice correct="false">8</choice>
+      <choice correct="false">12</choice>
+      <choice correct="true">16</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

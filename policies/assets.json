@@ -1,26 +1,43 @@
 {
-    "icons_Hybrid_Electronics.png": {
-        "contentType": "image/png", 
+    "COEP-Hybrid_Electronics.JPG": {
+        "contentType": "image/jpeg", 
         "content_son": {
             "category": "asset", 
             "course": "ECE19", 
-            "name": "icons_Hybrid_Electronics.png", 
+            "name": "COEP-Hybrid_Electronics.JPG", 
             "org": "COE-Pune", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
-        "displayname": "icons_Hybrid Electronics.png", 
-        "filename": "asset-v1:COE-Pune+ECE19+Anytime+type@asset+block@icons_Hybrid_Electronics.png", 
-        "import_path": null, 
+        "displayname": "COEP-Hybrid Electronics.JPG", 
+        "filename": "asset-v1:COE-Pune+ECE19+Anytime+type@asset+block@COEP-Hybrid_Electronics.JPG", 
+        "import_path": "COEP-Hybrid Electronics.JPG", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
             "COE-Pune", 
             "ECE19", 
             "thumbnail", 
-            "icons_Hybrid_Electronics-png.jpg", 
+            "COEP-Hybrid_Electronics-JPG.jpg", 
             null
         ]
+    }, 
+    "subs_3_yD_cEKoCk.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "ECE19", 
+            "name": "subs_3_yD_cEKoCk.srt.sjson", 
+            "org": "COE-Pune", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_3_yD_cEKoCk.srt.sjson", 
+        "filename": "asset-v1:COE-Pune+ECE19+Anytime+type@asset+block@subs_3_yD_cEKoCk.srt.sjson", 
+        "import_path": "subs_3_yD_cEKoCk.srt.sjson", 
+        "locked": false, 
+        "thumbnail_location": null
     }
 }

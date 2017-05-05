@@ -1,0 +1,47 @@
+<problem display_name="Multiple Choice" markdown="&#10;1. The decimal number 6 in Excess-3 is written as&#10;() 1101&#10;(x) 1001&#10;() 0011&#10;() 1111&#10;&#10;2) If each successive code differs its preceding code by a single bit only, then this code is called&#10;() BCD&#10;(x) Gray&#10;() Weighted Code&#10;() Primary&#10;&#10;3) Gray code of binary ‘0000’ is&#10;(x) 0000&#10;() 0001&#10;() 0010&#10;() 1000&#10;&#10;4) The decimal number 279 will be represented in Excess-3 code as&#10;() 100010111&#10;() 001001111001&#10;(x) 01011011100&#10;() 100011010&#10;&#10;5) The binary code of a gray code 1000 is&#10;() 0001&#10;() 0011&#10;() 1000&#10;(x) 1111&#10;">
+  <p>1. The decimal number 6 in Excess-3 is written as</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">1101</choice>
+      <choice correct="true">1001</choice>
+      <choice correct="false">0011</choice>
+      <choice correct="false">1111</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2) If each successive code differs its preceding code by a single bit only, then this code is called</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">BCD</choice>
+      <choice correct="true">Gray</choice>
+      <choice correct="false">Weighted Code</choice>
+      <choice correct="false">Primary</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3) Gray code of binary ‘0000’ is</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">0000</choice>
+      <choice correct="false">0001</choice>
+      <choice correct="false">0010</choice>
+      <choice correct="false">1000</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4) The decimal number 279 will be represented in Excess-3 code as</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">100010111</choice>
+      <choice correct="false">001001111001</choice>
+      <choice correct="true">01011011100</choice>
+      <choice correct="false">100011010</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5) The binary code of a gray code 1000 is</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">0001</choice>
+      <choice correct="false">0011</choice>
+      <choice correct="false">1000</choice>
+      <choice correct="true">1111</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

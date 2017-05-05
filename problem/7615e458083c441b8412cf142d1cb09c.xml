@@ -1,0 +1,38 @@
+<problem display_name="Multiple Choice" markdown=" 1. 2s complement of 11011000&#10;(x) 00101000&#10;( ) 01101000&#10;( ) 11001000&#10;( ) 10101010&#10;&#10;2) Binary number representation by decimal number 37&#10;( ) 101010&#10;( ) 111000&#10;(x) 100101&#10;( ) 101101&#10;&#10;3) Decimal number representation by the binary number 1111 1111&#10;( ) 247&#10;( ) 249&#10;( ) 251&#10;(x) 255&#10;&#10;4) Ones complement of 10100111&#10;( ) 01100110&#10;(x) 01011000&#10;( ) 11100111&#10;( ) 11100101">
+  <p> 1. 2s complement of 11011000</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">00101000</choice>
+      <choice correct="false">01101000</choice>
+      <choice correct="false">11001000</choice>
+      <choice correct="false">10101010</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2) Binary number representation by decimal number 37</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">101010</choice>
+      <choice correct="false">111000</choice>
+      <choice correct="true">100101</choice>
+      <choice correct="false">101101</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3) Decimal number representation by the binary number 1111 1111</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">247</choice>
+      <choice correct="false">249</choice>
+      <choice correct="false">251</choice>
+      <choice correct="true">255</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4) Ones complement of 10100111</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">01100110</choice>
+      <choice correct="true">01011000</choice>
+      <choice correct="false">11100111</choice>
+      <choice correct="false">11100101</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>
